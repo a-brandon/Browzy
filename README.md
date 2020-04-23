@@ -1,7 +1,8 @@
 # browzy 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Version 1](https://img.shields.io/badge/-Version%201-red)
 
-browzy is an automation tool for navigating to websites.
+browzy is an automation tool for navigating to websites. It simply helps shave the time off the manual task of
+entering in all the websites you want to open each time you start your machine.
 
 
 ## Usage
